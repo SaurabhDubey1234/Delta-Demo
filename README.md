@@ -1,2 +1,2 @@
 # Delta-Demo
-This is a very powerful
+This is a demo for git and github
